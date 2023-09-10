@@ -173,3 +173,16 @@ While making the system an eye has been kept on making it as user friendly as su
 3)	Configuring of static assets can be done. 
 4)	Integration of summer note WYSIWYG editor can be done. 
 5)	Sitemap can be created. 
+
+**8. SCREENSHOTS**
+
+![Picture1](https://github.com/abhisheksingh4891/Blog_app/assets/75315222/840495f5-98ff-4c82-92b6-cd84b60c8df8)
+
+
+![Picture2](https://github.com/abhisheksingh4891/Blog_app/assets/75315222/dc22cff4-72db-4a2f-82b1-265519d19664)
+
+
+![Picture3](https://github.com/abhisheksingh4891/Blog_app/assets/75315222/b5572f13-a62e-449e-bfdb-28decf622b8a)
+
+
+![Picture4](https://github.com/abhisheksingh4891/Blog_app/assets/75315222/abd4f89c-d3be-456c-9155-b5806ed4ad1a)
