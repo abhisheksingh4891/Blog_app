@@ -179,7 +179,10 @@ While making the system an eye has been kept on making it as user friendly as su
 ![Picture1](https://github.com/abhisheksingh4891/Blog_app/assets/75315222/840495f5-98ff-4c82-92b6-cd84b60c8df8)
 
 
-![Picture2](https://github.com/abhisheksingh4891/Blog_app/assets/75315222/dc22cff4-72db-4a2f-82b1-265519d19664)
+![Screenshot 2023-10-23 093540](https://github.com/abhisheksingh4891/Blog_app/assets/75315222/ffcc5c24-f1a0-4615-800b-5559113a691f)
+
+
+![266835513-dc22cff4-72db-4a2f-82b1-265519d19664](https://github.com/abhisheksingh4891/Blog_app/assets/75315222/c078be2a-d0bd-489c-999b-db3f043b92e0)
 
 
 ![Picture3](https://github.com/abhisheksingh4891/Blog_app/assets/75315222/b5572f13-a62e-449e-bfdb-28decf622b8a)
