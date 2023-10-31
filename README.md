@@ -4,7 +4,7 @@
 
 The “Online Blogging System” has been developed to override the problems prevailing in the practicing manual system. This software is supported to eliminate, and in some cases reduce the hardships faced by this existing system. Moreover, this system is designed for the particular need for the company to carry out operations in a smooth and effective manner. This application is reduced as much as possible to avoid errors while entering the data. It also provides error message while entering invalid data. No formal knowledge is needed for the user to use this system. Thus, by this all it proves it is user-friendly. By using this can lead to error free, secure, reliable and fast management system. 
  
-1.1  Overall Description: 
+**1.1  Overall Description:** 
 
 The main aim of this application is to provide a hassle-free accessing of the posted blogs, entries, topics etc. It also used for posting the blogs, editing the blogs, deleting the posted blogs etc. It is also used for viewing and posting the others one’s blogs/posts.  
  
@@ -12,11 +12,11 @@ Every organization, whether big or small, has challenges to overcome and managin
 
 
 
-1.2  Purpose: 
+**1.2  Purpose:**
 
 The main purpose of the Project on Online Blogging System is to manage the details of Blogs, Idea, Topic, Entries, Views. It manages all the information about Blogs, Content, Views, Blogs. The project is totally built at administrative end and thus only the administrator is guaranteed the access. The purpose of the Blogs, Idea, Content, Topic. It tracks all the details about the Topics, Entries, Views. 
  
-1.2.1  Functionalities provided by Online Blogging System are as follows: 
+**1.2.1**  Functionalities provided by Online Blogging System are as follows: 
 
 Provides the post viewing facility for everyone. 
 
@@ -40,7 +40,7 @@ The gist of the idea is to digitalize the process of manually driven ideas, topi
 
 It may help collecting perfect management in details. In a very short time, the collection will be obvious, simple and sensible. It will help a person to know the management of passed year perfectly and vividly. It also helps in current all works relative to Online Blogging System. It will be also reduced the cost of collecting the management & collection procedure will go on smoothly. 
  	 
-  1.3.1    Our project aims at Business process automation, i.e. we have tried to computerize various processes of Online Blogging System.  
+  **1.3.1**    Our project aims at Business process automation, i.e. we have tried to computerize various processes of Online Blogging System.  
   
     •	To utilize resources in an efficient manner by increasing their productivity through automation. 
     
@@ -56,7 +56,7 @@ It may help collecting perfect management in details. In a very short time, the 
     
     •	Delivered on schedule within the budget. 
 
-  1.3.2   The proposed system has the following requirements: 
+  **1.3.2**   The proposed system has the following requirements: 
   
     •	System needs store information about new entry of Blogs. 
    
@@ -69,6 +69,26 @@ It may help collecting perfect management in details. In a very short time, the 
     •	System also needs a search area. 
     
     •	It also needs a security system to prevent data. 
+
+#
+**SCREENSHOTS**
+
+![Picture1](https://github.com/abhisheksingh4891/Blog_app/assets/75315222/840495f5-98ff-4c82-92b6-cd84b60c8df8)
+
+
+![Screenshot 2023-10-23 093540](https://github.com/abhisheksingh4891/Blog_app/assets/75315222/ffcc5c24-f1a0-4615-800b-5559113a691f)
+
+
+![266835513-dc22cff4-72db-4a2f-82b1-265519d19664](https://github.com/abhisheksingh4891/Blog_app/assets/75315222/c078be2a-d0bd-489c-999b-db3f043b92e0)
+
+
+![Picture3](https://github.com/abhisheksingh4891/Blog_app/assets/75315222/b5572f13-a62e-449e-bfdb-28decf622b8a)
+
+
+![Picture4](https://github.com/abhisheksingh4891/Blog_app/assets/75315222/abd4f89c-d3be-456c-9155-b5806ed4ad1a)
+
+
+
  
 **02.	PROBLEM STATEMENT:**
 
@@ -173,19 +193,3 @@ While making the system an eye has been kept on making it as user friendly as su
 3)	Configuring of static assets can be done. 
 4)	Integration of summer note WYSIWYG editor can be done. 
 5)	Sitemap can be created. 
-
-**8. SCREENSHOTS**
-
-![Picture1](https://github.com/abhisheksingh4891/Blog_app/assets/75315222/840495f5-98ff-4c82-92b6-cd84b60c8df8)
-
-
-![Screenshot 2023-10-23 093540](https://github.com/abhisheksingh4891/Blog_app/assets/75315222/ffcc5c24-f1a0-4615-800b-5559113a691f)
-
-
-![266835513-dc22cff4-72db-4a2f-82b1-265519d19664](https://github.com/abhisheksingh4891/Blog_app/assets/75315222/c078be2a-d0bd-489c-999b-db3f043b92e0)
-
-
-![Picture3](https://github.com/abhisheksingh4891/Blog_app/assets/75315222/b5572f13-a62e-449e-bfdb-28decf622b8a)
-
-
-![Picture4](https://github.com/abhisheksingh4891/Blog_app/assets/75315222/abd4f89c-d3be-456c-9155-b5806ed4ad1a)
